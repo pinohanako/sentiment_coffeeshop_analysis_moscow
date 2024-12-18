@@ -1,0 +1,19 @@
+selenium==4.27.1
+google-colab-selenium==1.0.14
+nltk==3.9.1
+deep-translator==1.11.4
+sentence-transformers==3.2.1
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+seaborn==0.13.2
+spacy==3.7.5
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+spacy download en_core_web_sm
+pinecone==5.4.2
+pinecone-client==3.1.0
+pinecone-plugin-inference==3.1.0
+pinecone-plugin-interface==0.0.7
+matplotlib==3.8.0
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.1
